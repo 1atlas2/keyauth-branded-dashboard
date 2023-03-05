@@ -2,7 +2,8 @@
 
 * Setup
 First rename do the setup in [[https://github.com/D0A1V2I3D/keyauth-branded-dashboard/blob/main/.env.example.org][here]].
+Next change the colors to your preference in src/styles/globals.css
 
-* TODO [0/2] [0%]
+*** ToDo [0/2] [0%]
 - [ ] Video tutorial
 - [ ] More customizations
