@@ -1,0 +1,8 @@
+#+TITLE: Keyauth Panel
+
+* Setup
+First rename do the setup in [[https://github.com/D0A1V2I3D/keyauth-branded-dashboard/blob/main/.env.example.org][here]].
+
+* TODO [0/2] [0%]
+- [ ] Video tutorial
+- [ ] More customizations
