@@ -1,5 +1,7 @@
 #+TITLE: Keyauth Panel
 
+* this project was put on hold, due to other prioritis
+
 * Setup
 First rename do the setup in [[https://github.com/D0A1V2I3D/keyauth-branded-dashboard/blob/main/.env.example.org][here]].
 Next change the colors to your preference in src/styles/globals.css
